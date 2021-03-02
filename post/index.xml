@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Lawyer Hugo Grotius</title>
-        <link>http://example.org/post/</link>
+        <link>http://reginald-ob.github.io/post/</link>
         <description>Latest blog posts from Lawyer Hugo Grotius</description>
 
         
@@ -16,11 +16,11 @@
         
 
         
-        <lastBuildDate>Tue, 02 Mar 2021 12:19:54 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2018 00:09:10 +0800</lastBuildDate>
         
 
         
-        <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://reginald-ob.github.io/post/index.xml" rel="self" type="application/rss+xml" />
         
 
         
