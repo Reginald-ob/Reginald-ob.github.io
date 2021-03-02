@@ -2,31 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://reginald-ob.github.io/wel/</loc>
-    <lastmod>2018-01-27T20:19:21+08:00</lastmod>
-  </url><url>
-    <loc>http://reginald-ob.github.io/about/</loc>
-    <lastmod>2018-01-27T20:19:21+08:00</lastmod>
-  </url><url>
-    <loc>http://reginald-ob.github.io/tags/hugo/</loc>
-    <lastmod>2018-01-28T00:09:10+08:00</lastmod>
-  </url><url>
-    <loc>http://reginald-ob.github.io/</loc>
-    <lastmod>2018-01-28T00:09:10+08:00</lastmod>
-  </url><url>
-    <loc>http://reginald-ob.github.io/post/</loc>
-    <lastmod>2018-01-28T00:09:10+08:00</lastmod>
-  </url><url>
-    <loc>http://reginald-ob.github.io/tags/</loc>
-    <lastmod>2018-01-28T00:09:10+08:00</lastmod>
-  </url><url>
-    <loc>http://reginald-ob.github.io/post/welcome/</loc>
-    <lastmod>2018-01-28T00:09:10+08:00</lastmod>
-  </url><url>
     <loc>http://reginald-ob.github.io/categories/</loc>
   </url><url>
-    <loc>http://reginald-ob.github.io/month/</loc>
+    <loc>http://reginald-ob.github.io/</loc>
   </url><url>
-    <loc>http://reginald-ob.github.io/year/</loc>
+    <loc>http://reginald-ob.github.io/tags/</loc>
   </url>
 </urlset>
